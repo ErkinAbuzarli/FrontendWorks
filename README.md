@@ -1,4 +1,6 @@
 # FrontendWorks
 
 Gallery 1:
-![Gallery 1](https://github.com/ErkinAbuzarli/FrontendWorks/blob/main/ScreenRecords/Gallery_1.mp4)
+https://user-images.githubusercontent.com/56367952/117402757-a4d93280-af0f-11eb-899c-4bfb725a7468.mp4
+
+
