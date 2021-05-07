@@ -1,0 +1,210 @@
+body,
+html {
+  margin: 0;
+}
+
+.banner-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.restaurant-name {
+  font-family: "Rajdhani", sans-serif;
+  font-size: 31px;
+  position: absolute;
+  top: 62px;
+  left: 246px;
+  color: white;
+  text-decoration: none;
+}
+
+.navbar {
+  position: absolute;
+  top: 68px;
+  right: 150px;
+  float: right;
+}
+
+.navbar-items {
+  font-family: "Rajdhani", sans-serif;
+  font-size: 16px;
+  margin-left: 50px;
+  color: white;
+  text-decoration: none;
+}
+
+.grandrestaurant {
+  position: absolute;
+  top: 40%;
+  left: 20%;
+  width: 60%;
+  height: 20%;
+  text-align: center;
+  color: white;
+}
+
+.grandrestaurant-name {
+  font-family: "Rajdhani", sans-serif;
+  font-size: 72px;
+}
+
+.lorem {
+  font-family: "Rajdhani", sans-serif;
+  font-size: 18px;
+  color: white;
+}
+
+.second-page {
+  background-color: #962323;
+  height: 642px;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.sushi {
+  width: 1010px;
+  margin-left: 245px;
+}
+
+.sushi-text {
+  font-family: "Dancing Script", cursive;
+  font-size: 56px;
+  margin-bottom: 0px;
+  color: white;
+}
+
+.ssh {
+  float: right;
+  text-align: center;
+  width: 508px;
+}
+
+.second-page hr {
+  width: 108px;
+  background: white;
+  margin-bottom: 55px;
+}
+
+.third-page img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.recipes {
+  position: absolute;
+  text-align: center;
+  width: 510px;
+  top: 10%;
+  left: 500px;
+}
+
+.red-hr {
+  width: 108px;
+  background: #c8235d;
+  border-color: #c8235d;
+  margin-bottom: 55px;
+}
+
+.third-page {
+  position: relative;
+}
+
+.four-page {
+  background-color: white;
+  height: 900px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.menu {
+  height: 665px;
+  width: 1105px;
+  text-align: center;
+}
+
+.menu p {
+  color: black;
+}
+
+.menu-item {
+  font-size: 16px;
+  width: 457px;
+  height: 74px;
+  margin-right: 130px;
+}
+
+.menu-items {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 60px;
+}
+
+.item-title {
+  float: left;
+  text-align: left;
+  margin-bottom: 0px;
+}
+
+.item-price {
+  color: green;
+  float: right;
+  margin-bottom: 0px;
+}
+
+.five-page {
+  height: 365px;
+  margin: 0px;
+}
+
+.six-page {
+  background-color: #25262a;
+  color: white;    
+  width: 100%;
+  height: 322px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer {
+    width: 1105px;
+    font-family: "Rajdhani", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.footer-restaurant {
+    width: 250px;
+}
+
+.footer-nav {
+    width: 160px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.footer-nav h2 {
+    font-size: 18px;
+}
+.footer-nav p {
+    font-size: 14px;
+}
+
+.footer-restaurant p {
+    font-size: 14px;
+}
+
+.footer-restaurant h2 {
+    font-size:26px;
+}
+
+.ic {
+    color: #C0235A;
+    font-size: 12px;
+    margin-top: 5px;
+}
