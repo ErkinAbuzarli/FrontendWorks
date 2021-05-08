@@ -13,5 +13,5 @@ This Repository created for storage frontend works.
 
 ## HTML+CSS
 
-
+![HTML+CSS](https://github.com/ErkinAbuzarli/FrontendWorks/blob/main/HTML%2BCSS/media/fff_Trim.gif)
 
